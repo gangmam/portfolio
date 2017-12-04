@@ -1,0 +1,28 @@
+LOAD
+ADD ladle kitchen_supplies 10 2000
+ADD frying_pan kitchen_supplies 3 5000
+ADD usb_8g electronics 5 10000
+ADD usb_16g electronics 5 20000
+ADD body_wash toiletries 3 8000
+ADD glue office_supplies 10 1000
+ADD broom cleaning_supplies 5 2000
+ADD mop cleaning_supplies 5 5000
+ADD earphone electronics 3 15000
+ADD wireless_mouse electronics 5 20000
+SEARCH u
+SELL usb_8g 2
+MODIFY usb_16g 18000
+ADD usb_16g 3
+SEARCH usb
+PRINT toiletries
+DELETE body_wash
+PRINT
+SELL frying_pan 5
+SELL frying_pan 2
+SELL glue 10
+SEARCH glue
+MANAGE 3
+MANAGE 3 5
+SALES 0
+SALES 3
+SAVE
