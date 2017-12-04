@@ -1,0 +1,38 @@
+해당 폴더는 포트폴리오를 위해서 수행한 과제 및 프로젝트(코드 및 보고서)로 구성되어있습니다.
+
+1. Assembly Programming_Quick Sort
+
+프로그램의 경우 메모리에 저장된 Floating Point 수들을 가장 적은 Performance를 소비한채
+정렬한는 프로그램입니다.(가장 적은 Performance를 소비하기 위해 Quick sort알고리즘을 사용)
+Assembly 언어로 구현했습니다.
+
+
+2. Data Structure(자료구조)
+
+Balanced Search Tree(BST), AVL Search Tree, B+ Search Tree
+graph(BFS, DFS, Kruskal, Dijkstra) 알고리즘은 안정적인 LINUX환경에서 c++언어로 
+구현한 프로젝트의 코드 및 보고서에 해당합니다. 
+
+
+3. Machine Learning(머신러닝)
+
+유튜브 강의를 보면서 학습하는 예시 및 과제들을 수행한 프로그램 예시에 해당합니다.
+(따로 READ_ME 파일을 첨부 했습니다.)
+
+
+4. 객체지향 프로그래밍
+
+자료구조 과목 이전 수료과목으로 객체지향프로그래밍을 실시하면서
+중요하게 배웠던 심화 링크드리스트 프로젝트의 코드 및 보고서를 첨부했습니다.
+
+
+5. System Programming
+
+C언어를 활용해서 FTP server를 구현하고 구현한 FTP server를 활용해서
+LINUX에서의 기본 명령어들을 실질적으로 구현했습니다.(따로 READ_ME파일을 첨부했습니다.)
+
+
+6. 디지털논리회로
+
+하드웨어 언어인 베릴로그를 활용해서 DMAC, BUS, Multiplier, Memroy들을 각각 구현한뒤
+하나의 장치로써 동작할 수 있는 베릴로그 프로그램을 설계한 코드 및 보고서입니다.
